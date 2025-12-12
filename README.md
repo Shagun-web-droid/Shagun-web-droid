@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shagunmmishra&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
 
-[![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge)](mailto:shagunmmishra@gmail.com)
+[![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge)](https://drive.google.com/file/d/1FTMl9xHT7GxF5JBt06xGM1DObj2DFvp9/view?usp=drive_link)
 
 # Hey there! 👋 I'm **Shagun Mishra**
 
@@ -51,13 +51,13 @@
 ## 🔗 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shagun-mishra" target="_blank">
+  <a href="https://linkedin.com/in/shagun-mishra-2589862a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shagunmmishra@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/shagunmmishra" target="_blank">
+  <a href="https://github.com/Shagun-web-droid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
