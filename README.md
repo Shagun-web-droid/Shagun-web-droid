@@ -31,8 +31,8 @@
 
 ## 📊 **GitHub Stats**
 
-![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunmmishra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunmmishra&layout=compact&theme=radical)
+![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shagun-web-droid&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun-web-droid&layout=compact&theme=radical)
 
 ---
 
